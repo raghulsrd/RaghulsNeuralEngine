@@ -1,4 +1,0 @@
-install:
-  - mkdir -p $HOME/.m2/repository/com/github/raghulsrd/RaghulsNeuralEngine/$JITPACK_TAG
-  - cp RaghulsNeuralEngine.jar $HOME/.m2/repository/com/github/raghulsrd/RaghulsNeuralEngine/$JITPACK_TAG/
-  - cp pom.xml $HOME/.m2/repository/com/github/raghulsrd/RaghulsNeuralEngine/$JITPACK_TAG/
