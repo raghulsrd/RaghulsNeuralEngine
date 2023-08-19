@@ -1,0 +1,2 @@
+install:
+  - echo "Nothing to build. Using pre-built JAR."
