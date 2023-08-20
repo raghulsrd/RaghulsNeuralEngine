@@ -4,7 +4,7 @@
 
     <groupId>com.github.raghulsrd</groupId>
     <artifactId>RaghulsNeuralEngine</artifactId>
-    <version>v1.0.1</version>
+    <version>v1.0.7</version>
     <packaging>jar</packaging>
 
     <description>Your Library Description</description>
